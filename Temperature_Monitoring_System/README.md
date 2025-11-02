@@ -32,3 +32,8 @@ This project is part of **Module 2: Communication via Channels**, focusing purel
 
 ## 🧱 Project Structure
 
+temperature-monitor/
+│
+├── main.go # Main source code with detailed comments
+├── go.mod # Go module file (optional)
+└── README.md # Documentation (this file)
