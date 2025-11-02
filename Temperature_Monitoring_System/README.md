@@ -1,4 +1,4 @@
-# 🌡️ Real-Time Temperature Monitoring System (Go Channels Project)
+# 🌡️ Real-Time Temperature Monitoring System (Using Go Channels)
 
 ## 🧠 Overview
 This project simulates a **real-world temperature monitoring system** using **Go channels**.  
@@ -35,7 +35,7 @@ This project is part of **Module 2: Communication via Channels**, focusing purel
 ```
 temperature-monitor/
 │
-├── main.go # Main source code with detailed comments
-├── go.mod # Go module file (optional)
-└── README.md # Documentation (this file)
+├── main.go # Main source code 
+├── go.mod # Go module file 
+└── README.md
 ```
